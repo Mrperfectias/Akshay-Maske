@@ -1,7 +1,6 @@
-[![MasterHead](https://thumbs.dreamstime.com/z/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Akshay Maske</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src"https://techseo.my.id/wp-content/uploads/2022/01/software-eng-pic.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrperfectias&label=Profile%20views&color=0e75b6&style=flat" alt="mrperfectias" /> </p>
 
